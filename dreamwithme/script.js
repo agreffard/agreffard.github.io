@@ -1,3 +1,8 @@
+/*
+  Derivated from "this alter world" made by Gerard Ferrandez
+  https://codepen.io/ge1doot/pen/GQobbq
+*/
+
 "use strict";
 {
   // http://mrl.nyu.edu/~perlin/noise/

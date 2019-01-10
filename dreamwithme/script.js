@@ -81,7 +81,6 @@
   ctx.globalAlpha = 0.05;
   // main loop
   async function run() {
-    console.log("run!")
     for (let px = 0; px < canvas.width; px++) {
       for (let py = 0; py < canvas.height / 6; py++) {
         let x = px;

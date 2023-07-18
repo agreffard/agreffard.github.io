@@ -67,7 +67,7 @@
 			color: inherit;
 		}
 
-		h3 a .subtitle
+		h3 .subtitle
 		{
 			font-size: 0.7em;
 		}
@@ -998,7 +998,7 @@ article p a
 	
 			#top p a
 			{
-				color: inherit;
+				/*color: inherit;*/
 			}
 
 /*********************************************************************************/
